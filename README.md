@@ -4,8 +4,6 @@ Comes with boss menu where you can hire unemployed players, promote, fire and de
 
 Installation requires creating a society (name + money) and cardealer_stock (stock + price + vehicle) tables.
 
-This script isn't really that good to use which is why I've updated this script recently for my own server. I've put this script online so hopefully someone can learn from this and make their own cardealer script. 
-
 Vehicles are taken from the config files, they need to be present in the shared.lua if you wish to sell them to players and they need to be present in the cardealer_stock table.
 
 Script does not include invoicing
