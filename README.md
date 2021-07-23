@@ -17,5 +17,5 @@ https://streamable.com/jr3g7u
 
 Follow me on twitch: https://twitch.tv/lionh34rtcs
 
-# Volantis RP
-http://discord.gg/QEQDDjuWMa
+# Interested in unique qbus scripts?
+Discord Invite link: https://discord.gg/AWyTUEnGeN
